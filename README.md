@@ -10,7 +10,7 @@
 Cute Puppy Lists App Allows you to view list of puppies and details of a particular puppy.
 The app is build during the Android Dev Challenge for Jetpack Compose.
 
-## :bulb: Motivation and Context
+## :bulb: Motive and Context
 
 <!--- Optionally point readers to interesting parts of your submission. -->
 <!--- What are you especially proud of? -->
