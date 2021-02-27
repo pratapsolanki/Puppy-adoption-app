@@ -7,9 +7,9 @@
 ## :scroll: Description
 
 <!--- Describe your app in one or two sentences -->
-Cute Puppy List App Allows you to view list of puppies and details of a particular puppy.
+Cute Puppy Lists App Allows you to view list of puppies and details of a particular puppy.
 The app is build during the Android Dev Challenge for Jetpack Compose.
-s
+
 ## :bulb: Motivation and Context
 
 <!--- Optionally point readers to interesting parts of your submission. -->
