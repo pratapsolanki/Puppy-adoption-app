@@ -19,7 +19,7 @@ The app is build during the Android Dev Challenge for Jetpack Compose.
 - Both the screens follow Material Design Principals and have neat User Interface.
 - App uses recommended navigation pattern to switch from one screen to other.
 - App fetches puppy images from internet using Glide and have fade in animation effect.
-- Puppy photos lists credit : Unsplash 
+- Puppy photos lists credits : Unsplash 
 
 ## :camera_flash: Screenshots
 
